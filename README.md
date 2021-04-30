@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikitabablo
-- 👷‍I am a **Backend PHP Developer**
-- 👀 I’m interested in **PHP, NodeJS, Golang**
-- 🌱 I’m currently learning **Golang and NodeJS**
+- 👷 And I'm a **Backend PHP Developer**
+- 👀 Also I’m interested in **PHP, NodeJS, Golang**
+- 🌱 And currently I'm learning **Golang and NodeJS**
 - 📫 How to reach me *mikitabablo@gmail.com* or *inikita943@gmail.com*
 
 <!---
